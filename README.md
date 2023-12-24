@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm w6rsty</h1>
-<h3 align="center">A passionate Game Engine beginner and developer from China</h3>
+<h3 align="center">A passionate Game Engine beginner and developer</h3>
 
-- 🔭 I’m currently working on **Prism Engine(private now)**
+- 🔭 I’m currently working on **Prism Engine**
 
 - 🌱 I’m currently learning **C++, Rust, OpenGL, Vulkan,Graphics**
 

@@ -1,20 +1,24 @@
-<h1 align="center">Hi 👋, I'm w6rsty</h1>
-<h3 align="center">A passionate Game Engine beginner and developer</h3>
+<div align="center">
+  
+![Welcome][github-sub-title:img]
 
-- 🔭 I’m currently working on **Prism Engine**
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Hello,%20I%27m%20w6rsty;
 
-- 🌱 I’m currently learning **C++, Rust, OpenGL, Vulkan,Graphics**
+A passionate **Game Engine** beginner and developer
 
-- 📝 I regularly write articles on [https://w6rsty.github.io/](https://w6rsty.github.io/)
 
-- 📫 How to reach me **w6rsty@88.com**
+I’m currently learning **C++**, **Rust**, **OpenGL**, **Vulkan**,**Graphics**
 
-<p align="left">
-</p>
+My Blogs [https://w6rsty.github.io/](https://w6rsty.github.io/)
 
-<h3 align="left">Languages</h3>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="30"/> 
+<img src="https://img.shields.io/badge/Rust-FA7343?style=for-the-badge&logo=rust&logoColor=white" alt="rust" height="30"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" height="30"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="swift" height="30"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w6rsty&layout=compact&hide=html,javascript,c)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w6rsty&layout=compact&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w6rsty&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w6rsty&layout=compact&theme=tokyonight)
+
+
+</div>

@@ -20,5 +20,6 @@ My Blogs [https://w6rsty.github.io/](https://w6rsty.github.io/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w6rsty&layout=compact&theme=tokyonight)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e6bc6-d9cc-41b8-8c01-54e0879e21dc/655acf06-711d-40e8-beaa-062576fe73b6.png" width=400/></a>
 
 </div>

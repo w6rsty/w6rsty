@@ -4,10 +4,7 @@
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Hello,%20I%27m%20w6rsty;
 
-A passionate **Game Engine** beginner and developer
-
-
-I’m currently learning **C++**, **Vulkan**,**Graphics**, **Rust**
+I'm now working as a **Graphics engine programmer**
 
 My Blogs [https://w6rsty.github.io/](https://w6rsty.github.io/)
 

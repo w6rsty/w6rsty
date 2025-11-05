@@ -4,7 +4,7 @@
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=Hello,%20I%27m%20w6rsty;
 
-I'm now working as a **Graphics engine programmer**
+I'm a **Graphics engine engineer** and is working on RHI of an in-house game engine
 
 My Blogs [https://w6rsty.github.io/](https://w6rsty.github.io/)
 
